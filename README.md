@@ -1,2 +1,1 @@
-# Recnet
-UCI Capstone project
+# RecNet
